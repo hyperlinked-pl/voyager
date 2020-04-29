@@ -37,6 +37,7 @@ return [
     'exception'              => 'Wyjątek',
     'featured'               => 'Polecane',
     'field_does_not_exist'   => 'Pole nie istnieje',
+    'home'                   => 'Strona główna,'
     'how_to_use'             => 'Instrukcja obsługi',
     'index'                  => 'Indeks',
     'internal_error'         => 'Błąd wewnętrzny',
@@ -46,6 +47,7 @@ return [
     'last_modified'          => 'Ostatnio zmodyfikowany',
     'length'                 => 'Długość',
     'login'                  => 'Zaloguj',
+    'logout'                 => 'Wyloguj',
     'media'                  => 'Media',
     'menu_builder'           => 'Zarządzanie menu',
     'move'                   => 'Przenieś',
